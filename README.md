@@ -1,4 +1,5 @@
-# Roblox Studio
+#  ![Roblox Logo.](https://seeklogo.com/images/R/roblox-studio-logo-B8149275A6-seeklogo.com.png)
+
 In this repository I will show you both basic scripts and more complex ones for the `Lua` programming language and the `Roblox Studio` program.
 All scripts will be shown in the library, where you can find out more information about the script you need.
 All descriptions in the scripts are written in Russian
@@ -15,7 +16,7 @@ All descriptions in the scripts are written in Russian
 
 ---
 
-# Scripts Library :floppy_disk:
+## Scripts Library :floppy_disk:
 - Click on the link next to the title to find out more.
 - <kbd>CTRL</kbd> + <kbd>C</kbd>  this script to testing
   
