@@ -1,19 +1,27 @@
 # Roblox Studio
-1. In this repository I will show you both basic scripts and more complex ones for the `Lua` programming language and the `Roblox Studio` program.
+In this repository I will show you both basic scripts and more complex ones for the `Lua` programming language and the `Roblox Studio` program.
 All scripts will be shown in the library, where you can find out more information about the script you need.
-
-2. All descriptions in the scripts are written in Russian
-
-- [x] Задача 1
-- [ ] Задача 2
-- [ ] Задача 3
+All descriptions in the scripts are written in Russian
 
 ---
 
-## Scripts library :floppy_disk:
+## Content :clipboard:
 
-1. `local function` [Learn more about the script...](https://github.com/snailsopretty/Roblox.Studio/blob/main/local%20function.lua)
-   - Explanations for this script can be found in the link above.
+| Name Script       | Script Links       |
+| ------------------| ------------------ |
+| 1.`local function`| [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/local%20function.lua) |
+| 2.`button script` | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/button%20script.lua)  |
+| 3.`while true do` | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/while%20true%20do.lua)|
+
+---
+
+# Scripts Library :floppy_disk:
+- Click on the link next to the title to find out more.
+- <kbd>CTRL</kbd> + <kbd>C</kbd>  this script to testing
+  
+---
+
+1. `local function`
   
   ```Lua
   local function NameFunction()
@@ -25,9 +33,8 @@ All scripts will be shown in the library, where you can find out more informatio
 
 ---
 
-2. `button script` [Learn more about the script...](https://github.com/snailsopretty/Roblox.Studio/blob/main/button%20script.lua)
-   - Explanations for this script can be found in the link above.
-  
+2. `button script` 
+    
   ```Lua
   local button = script.Parent
 
@@ -40,9 +47,8 @@ end)
 
 ---
 
-3. `while true do` [Learn more about the script...](https://github.com/snailsopretty/Roblox.Studio/blob/main/while%20true%20do.lua)
-   - Explanations for this script can be found in the link above.
-  
+3. `while true do` 
+    
   ```Lua
 while true do
 	
@@ -52,7 +58,6 @@ while true do
 	
 end
   ```
-
 
 
 
