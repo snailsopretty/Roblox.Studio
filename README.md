@@ -23,6 +23,7 @@ All descriptions in the scripts are written in Russian
 ---
 
 1. `local function`
+   - :arrow_down: Copy script here :arrow_down:
   
   ```Lua
   local function NameFunction()
@@ -34,7 +35,8 @@ All descriptions in the scripts are written in Russian
 
 ---
 
-2. `button script` 
+2. `button script`
+   - :arrow_down: Copy script here :arrow_down: 
     
   ```Lua
   local button = script.Parent
@@ -48,7 +50,8 @@ end)
 
 ---
 
-3. `while true do` 
+3. `while true do`
+   - :arrow_down: Copy script here :arrow_down:
     
   ```Lua
 while true do
