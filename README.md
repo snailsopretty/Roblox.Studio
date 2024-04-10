@@ -1,6 +1,12 @@
 # Roblox Studio
-Here I will show my training scripts in Russian.
-All scripts can be viewed in detail below in the script library tab
+1. In this repository I will show you both basic scripts and more complex ones for the `Lua` programming language and the `Roblox Studio` program.
+All scripts will be shown in the library, where you can find out more information about the script you need.
+
+2. All descriptions in the scripts are written in Russian
+
+- [x] Задача 1
+- [ ] Задача 2
+- [ ] Задача 3
 
 ---
 
