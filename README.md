@@ -1,6 +1,6 @@
 #  ![Roblox Logo.](https://seeklogo.com/images/R/roblox-studio-logo-B8149275A6-seeklogo.com.png)
 
-## Roblox Studio :arrow_heading_down:
+## Repository Info :arrow_heading_down:
 
 In this repository I will show you both basic scripts and more complex ones for the `Lua` programming language and the `Roblox Studio` program.
 All scripts will be shown in the library, where you can find out more information about the script you need.
