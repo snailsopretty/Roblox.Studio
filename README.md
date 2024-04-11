@@ -2,9 +2,9 @@
 
 ## Repository Info :arrow_heading_down:
 
-In this repository I will show you both basic scripts and more complex ones for the `Lua` programming language and the `Roblox Studio` program.
+In this repository I will show you both basic scripts and more advanced ones for the Lua programming language and the Roblox Studio program.
 All scripts will be shown in the library, where you can find out more information about the script you need.
-All descriptions in the scripts are written in Russian
+All descriptions in the scripts are written in both Russian and English.
 
 ---
 
