@@ -16,7 +16,11 @@ All descriptions in the scripts are written in both Russian and English. There m
 | 1.`local function`       | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/local%20function.lua) |
 | 2.`button script`        | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/button%20script.lua)  |
 | 3.`while true do`        | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/while%20true%20do.lua)|
-| 4.`tween service`        | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/tween%20service.lua)|
+| 4.`tween service`        | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/tween%20service.lua)  |
+| 5.`Instance`             | [`Link to script...`](https://github.com/snailsopretty/Roblox.Studio/blob/main/Instance.lua)         |
+
+
+
 
 
 
