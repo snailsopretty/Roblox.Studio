@@ -1,37 +1,37 @@
 
-local WS = game.Workspace -- Получаем Workspace / Get Workspace
+local WS = game.Workspace -- РџРѕР»СѓС‡Р°РµРј Workspace / Get Workspace
 
-local Object = Instance.new("Part", WS) -- Создаем наш объект, а после запитой пишем куда мы создаем / We create our object, and after the cap we write where we are creating
+local Object = Instance.new("Part", WS) -- РЎРѕР·РґР°РµРј РЅР°С€ РѕР±СЉРµРєС‚, Р° РїРѕСЃР»Рµ Р·Р°РїРёС‚РѕР№ РїРёС€РµРј РєСѓРґР° РјС‹ СЃРѕР·РґР°РµРј / We create our object, and after the cap we write where we are creating
 
-Object.Position = Vector3.new("Write Youre Position") -- Меняем позицию объекту / Change position of object
+Object.Position = Vector3.new("Write Youre Position") -- РњРµРЅСЏРµРј РїРѕР·РёС†РёСЋ РѕР±СЉРµРєС‚Сѓ / Change position of object
 
-Object.Anchored = true -- Также можно менять свойства объекта / We can also change properties of the object
+Object.Anchored = true -- РўР°РєР¶Рµ РјРѕР¶РЅРѕ РјРµРЅСЏС‚СЊ СЃРІРѕР№СЃС‚РІР° РѕР±СЉРµРєС‚Р° / We can also change properties of the object
 
-Object.Transparency = 0.5 -- Также можно менять свойства объекта / We can also change properties of the object
+Object.Transparency = 0.5 -- РўР°РєР¶Рµ РјРѕР¶РЅРѕ РјРµРЅСЏС‚СЊ СЃРІРѕР№СЃС‚РІР° РѕР±СЉРµРєС‚Р° / We can also change properties of the object
 
-Object.BrickColor = BrickColor.new("Youre BrickColor") -- Также можно менять свойства объекта / We can also change properties of the object
+Object.BrickColor = BrickColor.new("Youre BrickColor") -- РўР°РєР¶Рµ РјРѕР¶РЅРѕ РјРµРЅСЏС‚СЊ СЃРІРѕР№СЃС‚РІР° РѕР±СЉРµРєС‚Р° / We can also change properties of the object
 
--- Также можно создавать не только блоки, например можно сделать взрыв /  We can also create not only blocks, for example, we can make an explosion
+-- РўР°РєР¶Рµ РјРѕР¶РЅРѕ СЃРѕР·РґР°РІР°С‚СЊ РЅРµ С‚РѕР»СЊРєРѕ Р±Р»РѕРєРё, РЅР°РїСЂРёРјРµСЂ РјРѕР¶РЅРѕ СЃРґРµР»Р°С‚СЊ РІР·СЂС‹РІ /  We can also create not only blocks, for example, we can make an explosion
 
 -----------------------------------------------------------------------------------------------------------------
 
-local Exp = Instance.new("Explosion") -- Создаем взрыв / Create explosion
+local Exp = Instance.new("Explosion") -- РЎРѕР·РґР°РµРј РІР·СЂС‹РІ / Create explosion
 
-wait(3) -- Задержка перед взрывом / Delay before explosion
+wait(3) -- Р—Р°РґРµСЂР¶РєР° РїРµСЂРµРґ РІР·СЂС‹РІРѕРј / Delay before explosion
 
-Exp.Parent = game.Workspace.Baseplate.Parent -- Меняем родителя / Change parent
+Exp.Parent = game.Workspace.Baseplate.Parent -- РњРµРЅСЏРµРј СЂРѕРґРёС‚РµР»СЏ / Change parent
 
-Exp.Position = game.Workspace.Baseplate.Position -- Меняем позицию / Change position
+Exp.Position = game.Workspace.Baseplate.Position -- РњРµРЅСЏРµРј РїРѕР·РёС†РёСЋ / Change position
 
 --[[
 
-После того как мы укажем родителя и позицию, взрыв появиться, поэтому сделаем задержку перед его появлением
+РџРѕСЃР»Рµ С‚РѕРіРѕ РєР°Рє РјС‹ СѓРєР°Р¶РµРј СЂРѕРґРёС‚РµР»СЏ Рё РїРѕР·РёС†РёСЋ, РІР·СЂС‹РІ РїРѕСЏРІРёС‚СЊСЃСЏ, РїРѕСЌС‚РѕРјСѓ СЃРґРµР»Р°РµРј Р·Р°РґРµСЂР¶РєСѓ РїРµСЂРµРґ РµРіРѕ РїРѕСЏРІР»РµРЅРёРµРј
 
  After we indicate the parent and position, the explosion will appear, so we will make a delay before its appearance
  
 -----------------------------------------------------------------------------------------------------------------
  
- Создать с помощью Instance можно создать почти все, даже GUI объекты.
+ РЎРѕР·РґР°С‚СЊ СЃ РїРѕРјРѕС‰СЊСЋ Instance РјРѕР¶РЅРѕ СЃРѕР·РґР°С‚СЊ РїРѕС‡С‚Рё РІСЃРµ, РґР°Р¶Рµ GUI РѕР±СЉРµРєС‚С‹.
 
  Create with Instance you can create almost anything, even GUI objects.
 
