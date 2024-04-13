@@ -10,6 +10,7 @@ All descriptions in the scripts are written in both Russian and English. There m
 
 ## Education Scripts Library :blue_book:
 - Click on the link next to the title to find out more.
+- Training scripts written by me
 
 | Name Script :floppy_disk:| Script Links :blue_book:|
 | -------------------------| ------------------------|
@@ -23,11 +24,25 @@ All descriptions in the scripts are written in both Russian and English. There m
 
 ## Project Scripts Library :blue_book:
 - Click on the link next to the title to find out more.
+- Training scripts written by me
 
 | Name Script :floppy_disk:| Script Links :blue_book:|
 | -------------------------| ------------------------|
 | 1.`None`       | [`None`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
+---
+
+## Roblox Documentation :blue_book:
+- Click on the link next to the title to find out more.
+- This is the official roblox documentation
+
+| Name Docum. :floppy_disk:| Docum. Links :blue_book:|
+| -------------------------| ------------------------|
+| 1.`local function`       | [`Link to script...`](https://create.roblox.com/docs/luau/functions)|
+| 2.`button script`        | [`Link to script...`](https://create.roblox.com/docs/ui/buttons)|
+| 3.`while true do`        | [`Link to script...`](https://create.roblox.com/docs/tutorials/fundamentals/coding-4/repeating-code-with-while-loops)|
+| 4.`tween service`        | [`Link to script...`](https://create.roblox.com/docs/reference/engine/classes/TweenService)|
+| 5.`Instance`             | [`Link to script...`](https://create.roblox.com/docs/reference/engine/classes/Instance)|
 
 
 
