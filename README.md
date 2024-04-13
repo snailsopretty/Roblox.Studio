@@ -11,7 +11,6 @@ All training and project scripts were written by me personally, with the excepti
 > ### General information:
 > You can also find out general information on the [`Platform`](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals). There are several documentations for scripts and programming language: Here is for the programming language [`Lua`](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals), and here for [`Scripts`](https://create.roblox.com/docs/scripting/scripts) in general. There are also [`Instructions`](https://create.roblox.com/docs/tutorials/scripting/basic-scripting/intro-to-scripting) for scripts.
 
-
 ---
 
 ## Education Scripts Library :blue_book:
