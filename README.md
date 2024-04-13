@@ -9,7 +9,7 @@ All descriptions in the scripts are written in both Russian and English. There m
 All training and project scripts were written by me personally, with the exception of the Roblox documentation.
 
 > ### General information:
-> You can also find out general information on the [Platform](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals). There are several documentations for scripts and programming language: Here is for the programming language [Lua](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals), and here for [Scripts](https://create.roblox.com/docs/scripting/scripts) in general. There are also [Instructions](https://create.roblox.com/docs/tutorials/scripting/basic-scripting/intro-to-scripting) for scripts.
+> You can also find out general information on the [`Platform`](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals). There are several documentations for scripts and programming language: Here is for the programming language [`Lua`](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals), and here for [`Scripts`](https://create.roblox.com/docs/scripting/scripts) in general. There are also [`Instructions`](https://create.roblox.com/docs/tutorials/scripting/basic-scripting/intro-to-scripting) for scripts.
 
 
 ---
@@ -28,13 +28,8 @@ All training and project scripts were written by me personally, with the excepti
 
 ---
 
-## Project Scripts Library :blue_book:
-- Click on the link next to the title to find out more.
-- Training scripts written by me
-
-| Name Script :floppy_disk:| Script Links :blue_book:|
-| -------------------------| ------------------------|
-| 1.`None`       | [`None`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+## Project Scripts :blue_book:
+[`Here`](https://github.com/snailsopretty/Serenity/tree/main) you can see scripts and information about my projects, the scripts will be without descriptions since I did not aim them at educational scripts, but if you are interested in studying my projects, then good luck!
 
 ---
 
