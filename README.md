@@ -26,7 +26,7 @@ All descriptions in the scripts are written in both Russian and English. There m
 
 | Name Script :floppy_disk:| Script Links :blue_book:|
 | -------------------------| ------------------------|
-| 1.`None`       | [`None`]() |
+| 1.`None`       | [`None`](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 
 
