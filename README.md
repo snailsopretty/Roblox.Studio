@@ -45,7 +45,7 @@ All training and project scripts were written by me personally, with the excepti
 | 4.`tween service`        | [`Link to script...`](https://create.roblox.com/docs/reference/engine/classes/TweenService)|
 | 5.`Instance`             | [`Link to script...`](https://create.roblox.com/docs/reference/engine/classes/Instance)|
 
-[dont click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+More info [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
