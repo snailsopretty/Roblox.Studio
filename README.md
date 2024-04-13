@@ -8,7 +8,7 @@ All scripts will be shown in the library, where you can find out more informatio
 All descriptions in the scripts are written in both Russian and English. There may be errors and inaccuracies in the English version, but they are not critical.
 All training and project scripts were written by me personally, with the exception of the Roblox documentation.
 
-> ### General information:
+> [!NOTE]\
 > You can also find out general information on the [`Platform`](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals). There are several documentations for scripts and programming language: Here is for the programming language [`Lua`](https://create.roblox.com/docs/reference/engine/globals/LuaGlobals), and here for [`Scripts`](https://create.roblox.com/docs/scripting/scripts) in general. There are also [`Instructions`](https://create.roblox.com/docs/tutorials/scripting/basic-scripting/intro-to-scripting) for scripts.
 
 ---
@@ -28,7 +28,8 @@ All training and project scripts were written by me personally, with the excepti
 ---
 
 ## Project Scripts :blue_book:
-[`Here`](https://github.com/snailsopretty/Serenity/tree/main) you can see scripts and information about my projects, the scripts will be without descriptions since I did not aim them at educational scripts, but if you are interested in studying my projects, then good luck!
+> [!NOTE]\
+> If you want to view the scripts in my projects, you can go [`Here`](https://github.com/snailsopretty/Serenity/tree/main). The scripts do not have descriptions, since they are not focused on this. Learn and enjoy!
 
 ---
 
